@@ -1,1 +1,1 @@
-maliciouspkg @ file:///flag
+.
